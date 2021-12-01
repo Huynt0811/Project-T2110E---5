@@ -1,0 +1,27 @@
+.head {
+    position: relative;
+}
+
+.img {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    text-align: center;
+}
+
+.colorgray {
+    color: gray;
+}
+
+.hoverbutton:hover {
+    background-color: black;
+    color: white;
+}
+
+.hoverbutton {
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 12px 25px;
+    background-color: white;
+}
